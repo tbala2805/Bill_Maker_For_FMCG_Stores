@@ -8,18 +8,13 @@ An ML application that is hosted on cloud &amp; edge computing devices able to g
 
   EDGE COMPUTING – SOLUTION
 
-INFRAMIND 2019
 
-Team Name: _ATOM_
-
-from Bannari Amman Institute of Technology
 
 Team Members
 
 Balamurugan T (Bala) , Engineer, Call : +91 9488641192 ( Whatsapp) Fractal
 tbala2805@gmail.com
-Praveen V  Engineer, TCS, Call: 8883168568
-praveen241298@gmail.com
+
 
    
 Introduction
